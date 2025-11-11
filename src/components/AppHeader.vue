@@ -17,6 +17,7 @@ import { Button } from "@/components/ui/button"
       <ul class="text-xl flex flex-row gap-6">
         <li><router-link to="/" active-class="bg-base-300 font-bold">Home</router-link></li>
         <li><router-link to="/users" active-class="bg-base-300 font-bold">Users</router-link></li>
+        <li><router-link to="/login" active-class="bg-base-300 font-bold">Login</router-link></li>
       </ul>
     </div>
 
